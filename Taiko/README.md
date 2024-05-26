@@ -91,5 +91,17 @@ Type your address via Explorer, if it is as in the picture below, there is no pr
 cd simple-taiko-node
 docker compose logs -f
 ```
+## Stop
 
+After this process, it will install and start synchronising.
+
+```
+docker compose down
+```
+## Deleting a Node
+```
+docker compose down -v
+cd
+rm -fr simple-taiko-node
+```
 
