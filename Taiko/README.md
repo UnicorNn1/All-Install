@@ -78,8 +78,6 @@ After this process, it will install and start synchronising.
 docker compose up
 ```
 
-![image](https://user-images.githubusercontent.com/101635385/210138255-d7c31fb4-bbe4-4d6d-8703-6ee16f1a0b47.png)
-
 ## Viewing block via Explorer 
 
 Type your address via Explorer, if it is as in the picture below, there is no problem, of course it needs to be synchronised first. 
