@@ -1,2 +1,3 @@
 # Manual-Guide
-Coming Soon
+## Liteseed
+Liteseed Network is a Decentralized Physical Infrastructure Network (DePIN) to upload data onto Arweave.
