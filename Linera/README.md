@@ -1,2 +1,4 @@
 # Manual-Guide
-Coming Soon
+## Linera 
+Linera: a Blockchain Infrastructure for Highly Scalable Web3 Applications
+
