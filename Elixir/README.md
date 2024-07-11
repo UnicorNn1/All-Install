@@ -1,2 +1,2 @@
 # Manual-Guide
-Coming Soon
+The guide has not been written clearly yet, I will update comprehensively here soon.
