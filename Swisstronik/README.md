@@ -4,3 +4,6 @@ Swisstronik is a layer 1 solution built on the Cosmos SDK framework. It aims to 
 
 ## Swisstronik Node Install
 I will share the Swisstronik Node installation here in more detail with the latest update soon.
+
+## Testnet
+Testnet 2.0 has started and I will share a guide about the whole process
