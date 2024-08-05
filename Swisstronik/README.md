@@ -8,3 +8,5 @@ I will share the Swisstronik Node installation here in more detail with the late
 ## Testnet
 ### Big News: Introducing Swisstronik Testnet 2.0
 Testnet 2.0 has started and I will share a guide about the whole process
+
+### I'm going to release 2 new missions here, one after the other
