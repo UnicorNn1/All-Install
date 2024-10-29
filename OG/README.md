@@ -1,4 +1,4 @@
-# Manual-Guide
+# Manual-Guide Install
 Coming Soon
 Will be shared with the latest update
 
